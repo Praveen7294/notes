@@ -362,7 +362,7 @@ The Throwable class defines following methods to print exception information:
 | Method | Printable format |
 | --- | --- |
 | 1. printStackTrace() | Name of Exception : Description
-                 Stack Trace |
+|                 |  Stack Trace |
 | 2. toString() | Name of Exception : Description |
 | 3. getMessage() | Description |
 
