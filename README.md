@@ -24,10 +24,7 @@ This repository contains my personal notes to help me (and others) learn and rev
 
 Some of the topics in this repository include:
 
-- Java fundamentals (e.g. exception handling)  
-- Data structures & algorithms  
-- System design basics  
-- Other computer science theory & programming problems
+- Java fundamentals
 
 *(More topics will be added over time.)*
 
