@@ -1,27 +1,23 @@
 # Exception Handling in java
 
-- Introduction
-- Runtime stack mechanism
-- Default exception handling by using try catch
-- Exception hierarchy
-- Customized exception handling by using try catch
-- Control flow in try catch
-- Method to print exception information
-- try with multiple catch blocks
-- finally block
-- difference between final, finally, finalize
-- Control flow in try-catch-finally
-- Control flow nested try-catch-finally
-- Various possible combination of try catch finally
-- throw keyword
-- throws keyword
-- Exception handling keywords summary
-- Various possible compile time errors in exception handling
-- Customized or user defined exceptions
-- Top-10 exceptions
-- 1.7 version enhancements
-    1. try with resources
-    2. multi-catch block
+- [Introduction](#introduction)
+- [Runtime stack mechanism](#runtime-stack-mechanism)
+- [Default exception handling](#default-exception-handling)
+- [Exception hierarchy](#exception-hierarchy)
+- [Customized exception handling by using try catch](#customized-exception-handling-by-using-try-catch)
+- [Method to print exception information](#method-to-print-exception-information)
+- [try with multiple catch blocks](#try-multiple-catch-block)
+- [final, finally, finalize](#final-finally-finalize)
+- [Various possible combination of try catch finally](#various-combination-of-try-catch-finally)
+- [throw keyword](#throw)
+- [throws keyword](#throws)
+- [Exception handling keywords summary](#quick-notes)
+- [Various possible compile time errors in exception handling](#various-compile-time-error-in-exception-handling)
+- [Customized or user defined exceptions](#cutomized-or-user-defined-exception)
+- [Top-10 exceptions](#top-10-exceptions)
+- [1.7 version enhancements](#17-version-enhancements-with-exception-handling)
+    1. [try with resources](#try-with-resources)
+    2. [multi-catch block](#multi-catch-block)
 
 # Introduction
 
@@ -63,7 +59,7 @@ Class Test {
 
 ![image.png](image.png)
 
-# Default Exception handling
+# Default Exception Handling
 
 - Inside a method if any exception occurs the method in which it rise JVM is responsible to create exception object by including the following information
     1. Name of exception
