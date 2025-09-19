@@ -4,6 +4,8 @@
 - [Runtime stack mechanism](#runtime-stack-mechanism)
 - [Default exception handling](#default-exception-handling)
 - [Exception hierarchy](#exception-hierarchy)
+- [Checked Exception vs UncheckedException](#checked-exception-vs-unchecked-exception)
+- [Behavior of Some Exceptions](#behavior-of-some-exceptions)
 - [Customized exception handling by using try catch](#customized-exception-handling-by-using-try-catch)
 - [Method to print exception information](#method-to-print-exception-information)
 - [try with multiple catch blocks](#try-multiple-catch-block)
