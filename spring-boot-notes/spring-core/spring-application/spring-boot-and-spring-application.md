@@ -23,7 +23,7 @@
 - [Accessing Application Arguments](#accessing-application-arguments)
 - [Application Exit](#application-exit)
 
-Spring Boot is a framework for building applications in java programming language.
+Spring Boot is a framework for building applications in java & kotlin programming language.
 
 Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 
